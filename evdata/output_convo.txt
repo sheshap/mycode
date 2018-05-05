@@ -1,0 +1,10 @@
+HUMAN ++++ hi
+BOT ++++ . . . . . . . . . . . chúng chúng chúng . . . . .
+HUMAN ++++ who are you?
+BOT ++++ . . . . . chúng chúng chúng chúng chúng chúng chúng chúng chúng chúng chúng chúng . .
+HUMAN ++++ where are you from?
+BOT ++++ . . . . chúng chúng chúng chúng chúng chúng chúng chúng chúng chúng chúng . . . .
+=============================================
+HUMAN ++++ hi
+BOT ++++ . . . . . . . . . . . chúng chúng chúng . . . . .
+=============================================
